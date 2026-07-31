@@ -13,7 +13,7 @@
 
 org_settings:
   webhook_settings:
-    activates_webhook:
+    activities_webhook:
       enable_activities_webhook: true
       destination_url:  https://webhook.site/3eb5db19-ad62-4c64-908e-de35100046d2
   fleet_desktop:
