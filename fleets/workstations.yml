@@ -67,9 +67,6 @@ controls:
   ###########################################################
   apple_settings:
     configuration_profiles:
-      - path: 
-  windows_settings:
-    configuration_profiles:
       - path: ../platforms/macos/configuration-profiles/disable-bluetooth-file-sharing.mobileconfig
         labels_include_all:
           - Department - Engineering
