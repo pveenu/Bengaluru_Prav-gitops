@@ -43,8 +43,7 @@ controls:
   ###########################################################
   apple_settings:
     configuration_profiles:
-       #- path: ../Users/apple/Documents/GitHub/Bengaluru_Prav-gitops/platforms/ios/configuration-profiles/passcode-settings.json
-       #- path: ../lib/ios/configuration-profiles/self-service.mobileconfig
+       - path: ../platforms/ios/configuration-profiles/passcode-settings.json
   android_settings:
     configuration_profiles:
     certificates:
