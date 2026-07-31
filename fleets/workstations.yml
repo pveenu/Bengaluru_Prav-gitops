@@ -167,12 +167,12 @@ software:
     #     - Communication
     #     - Productivity
      packages:
-      - path: ../platform/macos/software/zoom.yml
+      - path: ../platforms/macos/software/zoom.yml
         self_Service: trues
         setuop_experience: true
         categories:
          - Communucation
-         
+
 
     # Windows apps
     # …
