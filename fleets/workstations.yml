@@ -74,7 +74,6 @@ controls:
   ../platforms/macos/configuration-profiles/disable-bluetooth-file-sharing.mobileconfig
         labels_include_all:
           - Department - Engineering
-
   ###########################################################
   # Managed disk encryption
   #
